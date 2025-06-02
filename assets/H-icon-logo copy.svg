@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Left angled bar (like "<") -->
+  <path d="M40 20 L30 60 L40 100" stroke="#e38445" stroke-width="8" stroke-linecap="round" fill="none"/>
+
+  <!-- Right angled bar (like ">") -->
+  <path d="M80 20 L90 60 L80 100" stroke="#e38445" stroke-width="8" stroke-linecap="round" fill="none"/>
+
+  <!-- Center connector (pipe/operator block) -->
+  <rect x="50" y="50" width="20" height="20" rx="4" fill="#e38445"/>
+
+  <!-- Single symbolic dot (hint of code cursor or start point) -->
+  <circle cx="110" cy="110" r="3" fill="#e38445"/>
+</svg>
